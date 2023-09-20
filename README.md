@@ -1,2 +1,3 @@
-# Projeto-Bateria-
-Criei essa bateria com JS para estudo.
+# Projeto-Bateria
+
+Um bateria interativa feita com JS para alegrar o seu dia!
